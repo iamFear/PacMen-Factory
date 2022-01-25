@@ -4,6 +4,6 @@
 
 - **How to run** You can see the project running and interact with him in the following link: [https://bit.ly/3KJkjNO](https://bit.ly/3KJkjNO)
 
-- **Future improvements:** In the following weeks, i want to add more styling to the page, and the option to add more characters than only PacMan.
+- **Future improvements:** In the following weeks, im going to add more styling to the page, and the option to add more characters than only PacMan.
 
 - **License Information:** You can read more about the MIT license in the following link: [https://bit.ly/3AyDghr](https://bit.ly/3AyDghr) 
